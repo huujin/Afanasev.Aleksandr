@@ -1,0 +1,20 @@
+C:\Users\79100\source\repos\многоугольники\многоугольники\bin\Debug\многоугольники.exe.config
+C:\Users\79100\source\repos\многоугольники\многоугольники\bin\Debug\многоугольники.exe
+C:\Users\79100\source\repos\многоугольники\многоугольники\bin\Debug\многоугольники.pdb
+C:\Users\79100\source\repos\многоугольники\многоугольники\obj\Debug\многоугольники.csprojAssemblyReference.cache
+C:\Users\79100\source\repos\многоугольники\многоугольники\obj\Debug\многоугольники.Form1.resources
+C:\Users\79100\source\repos\многоугольники\многоугольники\obj\Debug\многоугольники.Properties.Resources.resources
+C:\Users\79100\source\repos\многоугольники\многоугольники\obj\Debug\многоугольники.csproj.GenerateResource.cache
+C:\Users\79100\source\repos\многоугольники\многоугольники\obj\Debug\многоугольники.csproj.CoreCompileInputs.cache
+C:\Users\79100\source\repos\многоугольники\многоугольники\obj\Debug\многоугольники.exe
+C:\Users\79100\source\repos\многоугольники\многоугольники\obj\Debug\многоугольники.pdb
+C:\Users\79100\source\repos\многоугольники — копия\многоугольники\obj\Debug\многоугольники.csprojAssemblyReference.cache
+C:\Users\79100\source\repos\многоугольники — копия\многоугольники\obj\Debug\многоугольники.Form1.resources
+C:\Users\79100\source\repos\многоугольники — копия\многоугольники\obj\Debug\многоугольники.Properties.Resources.resources
+C:\Users\79100\source\repos\многоугольники — копия\многоугольники\obj\Debug\многоугольники.csproj.GenerateResource.cache
+C:\Users\79100\source\repos\многоугольники — копия\многоугольники\obj\Debug\многоугольники.csproj.CoreCompileInputs.cache
+C:\Users\79100\source\repos\многоугольники — копия\многоугольники\obj\Debug\многоугольники.exe
+C:\Users\79100\source\repos\многоугольники — копия\многоугольники\obj\Debug\многоугольники.pdb
+C:\Users\79100\source\repos\многоугольники — копия\многоугольники\bin\Debug\многоугольники.exe.config
+C:\Users\79100\source\repos\многоугольники — копия\многоугольники\bin\Debug\многоугольники.exe
+C:\Users\79100\source\repos\многоугольники — копия\многоугольники\bin\Debug\многоугольники.pdb

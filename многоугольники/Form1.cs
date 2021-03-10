@@ -115,6 +115,21 @@ namespace многоугольники
             Refresh();
         }
 
+        private void RadiusDelegate(object sender, RadiusEventArgs e)
+        {
+            foreach(Draw v in versh)
+            {
+                v.Rad = e.rad;
+            }
+            Refresh();
+        }
+        private void изменитьРадиусToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form2 radf = new Form2();
+            radf.Show();
+            radf.Rch += RadiusDelegate;
+        }
+
         private void trackBar1_Scroll(object sender, EventArgs e)
         {
             if (trackBar1.Value != 0)

@@ -38,6 +38,7 @@
             this.stopToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.trackBar1 = new System.Windows.Forms.TrackBar();
+            this.изменитьРадиусToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).BeginInit();
             this.SuspendLayout();
@@ -48,7 +49,8 @@
             this.окружностьToolStripMenuItem,
             this.квадратToolStripMenuItem,
             this.треугольникToolStripMenuItem,
-            this.анимацияToolStripMenuItem});
+            this.анимацияToolStripMenuItem,
+            this.изменитьРадиусToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(800, 24);
@@ -88,14 +90,14 @@
             // playToolStripMenuItem
             // 
             this.playToolStripMenuItem.Name = "playToolStripMenuItem";
-            this.playToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.playToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
             this.playToolStripMenuItem.Text = "Play";
             this.playToolStripMenuItem.Click += new System.EventHandler(this.playToolStripMenuItem_Click);
             // 
             // stopToolStripMenuItem
             // 
             this.stopToolStripMenuItem.Name = "stopToolStripMenuItem";
-            this.stopToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.stopToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
             this.stopToolStripMenuItem.Text = "Stop";
             this.stopToolStripMenuItem.Click += new System.EventHandler(this.stopToolStripMenuItem_Click);
             // 
@@ -111,6 +113,13 @@
             this.trackBar1.TabIndex = 2;
             this.trackBar1.Value = 1;
             this.trackBar1.Scroll += new System.EventHandler(this.trackBar1_Scroll);
+            // 
+            // изменитьРадиусToolStripMenuItem
+            // 
+            this.изменитьРадиусToolStripMenuItem.Name = "изменитьРадиусToolStripMenuItem";
+            this.изменитьРадиусToolStripMenuItem.Size = new System.Drawing.Size(114, 20);
+            this.изменитьРадиусToolStripMenuItem.Text = "Изменить радиус";
+            this.изменитьРадиусToolStripMenuItem.Click += new System.EventHandler(this.изменитьРадиусToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -145,6 +154,7 @@
         private System.Windows.Forms.ToolStripMenuItem stopToolStripMenuItem;
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.TrackBar trackBar1;
+        private System.Windows.Forms.ToolStripMenuItem изменитьРадиусToolStripMenuItem;
     }
 }
 

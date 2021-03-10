@@ -27,6 +27,7 @@ namespace многоугольники
         public int SetY { get { return y; } set { y = value; } }
         public int Del_x { get => del_x; set { del_x=value; } }
         public int Del_y { get => del_y; set { del_y = value; } }
+        public int Rad { get => r; set { r = value; } }
         public bool drag { get => grab; set { grab = value; } }
         public bool isInside { get => inside; set { inside = value; } }
         public abstract void DrawFigure(Graphics graf);
